@@ -1,5 +1,7 @@
 <a href="https://github.com/ethomson/send-tweet-action/actions"><img alt="send-tweet-action status" src="https://github.com/ethomson/send-tweet-action/workflows/CI/badge.svg?branch=master&event=push"></a>
 
+**Note:** this action is using the old V1 API and does not work anymore. Take a look at [github-action-notify-twitter](https://github.com/nearform-actions/github-action-notify-twitter) instead.
+
 # Send a tweet from a GitHub Actions workflow
 
 Use this action to send a tweet from a GitHub actions workflow.
